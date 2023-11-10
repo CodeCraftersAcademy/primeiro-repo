@@ -3,4 +3,3 @@ def calc(x, y, operator):
         return x + y
     elif operator == 'less':
         return x - y
-    
